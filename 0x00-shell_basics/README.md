@@ -9,3 +9,6 @@
 3-listfiles - This is an executable script which lists all the directory contents in a long format
 
 
+4-listfiles - This is an executable script which lists all the directory contents in a long format including hidden files
+
+
