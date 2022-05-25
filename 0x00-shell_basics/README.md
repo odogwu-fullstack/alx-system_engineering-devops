@@ -6,3 +6,6 @@
 2-bring_me_home - This is an executable script whichchanges the user's current working directory to his home directory
 
 
+3-listfiles - This is an executable script which lists all the directory contents in a long format
+
+
