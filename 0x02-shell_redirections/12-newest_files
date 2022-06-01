@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apt1 | HEAD -10 | grep -v "/"
+ls -apt1  | grep -v "/" | HEAD -10
